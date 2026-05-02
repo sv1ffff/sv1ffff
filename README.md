@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="120px" />
 </p>
 
-<h1 align="center">🚀 Hi there! I'm <a href="https://svif.online" style="color:#8B5CF6;">Saif Fikry</a> 👋</h1>
+<h1 align="center"> Hi there! I'm <a href="https://svif.online" style="color:#8B5CF6;">Saif Fikry</a> 👋</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+Scalable+Web+Solutions;%F0%9F%9B%A1%EF%B8%8F+Architecting+Secure+Discord+Bots;%F0%9F%8E%AC+Managing+16+High-Performance+Servers;%F0%9F%92%BC+Open+for+Freelance+%26+Collaboration;%E2%9A%A1+Turning+Ideas+into+Production-Ready+Code;%F0%9F%8F%86+5%2B+Years+of+Development+Experience" alt="Typing SVG" />
