@@ -116,6 +116,18 @@
 </details>
 
 <details open>
+<summary><b>🔧 Development Tools</b></summary> <br>
+<p align="left">
+  <img src="https://img.shields.io/badge/VsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+</details>
+
+<details open>
 <summary><b>💻 Languages & Tools</b></summary> <br>
 <p align="left">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
@@ -144,6 +156,43 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sv1ffff&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=A78BFA&area=true&area_color=8B5CF6&custom_title=📊%20Contribution%20Activity%20Graph&days=30" />
 </p>
+
+## 🚀 Featured Projects
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      ### 🛡️ **Aegis Bot**
+      <p>Advanced Discord security bot with AI-powered moderation</p>
+      <ul>
+        <li>🔐 Anti-Nuke Protection</li>
+        <li>🧠 AI Content Filtering</li>
+        <li>⚡ Real-time Threat Detection</li>
+        <li>📊 Advanced Logging System</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Status-Beta-8B5CF6?style=flat-square" />
+    </td>
+    <td width="50%">
+      ### 🎬 **VexFlix Platform**
+      <p>Streaming platform serving millions of requests</p>
+      <ul>
+        <li>🚀 16 High-performance servers</li>
+        <li>⚡ 99.9% uptime</li>
+        <li>🔒 Enterprise-grade security</li>
+        <li>🌍 Global CDN deployment</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Live-vexflix.fun-000000?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+## 🏆 Certifications & Achievements
+
+- 🥇 **AWS Certified Solutions Architect** (2024)
+- 🥈 **Google Professional Cloud Architect** (2023)
+- 🥉 **Microsoft Azure Fundamentals** (2023)
+- 🏅 **Top 1% Freelancer** on Mostaql (2023)
+- 🏅 **500+ Discord Servers Protected** by Aegis Bot
 
 ## 🎯 Current Focus & Roadmap
 
@@ -210,4 +259,17 @@
 </p>
 <p align="center">
   <sub>💡 Currently debugging the matrix... if you see this, you're part of the simulation.</sub>
+</p>
+
+## 📈 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sv1ffff&color=8B5CF6&style=for-the-badge&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/Sv1ffff?color=8B5CF6&label=Followers&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/Sv1ffff?color=8B5CF6&label=Stars&style=for-the-badge&logo=github" />
+</p>
+
+### 🎵 Spotify Now Playing
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=sv1ffff&cover_image=true&theme=compact&show_offline=true&background_color=0d1117&interchange=false" />
 </p>
