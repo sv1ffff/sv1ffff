@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="100" />
 </p>
 
-# <p align="center">🚀 Hi there! I'm <a href="https://svif.online">Saif Fikry</a> 👋</p>
+# <p align="center"> Hi there! I'm <a href="https://svif.online">Saif Fikry</a> 👋</p>
 
 ### <p align="center">👑 Full-Stack Developer | Founder of **DevX SQ** | Owner of <a href="https://vexflix.fun/">VexFlix</a></p>
 
