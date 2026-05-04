@@ -25,9 +25,9 @@
 <br>
 
 * 👑 **CEO @ DevX SQ** — Leading high-performance development teams.
-* 📱 **Android Specialist** — Expert in **Kotlin** & **Compose**.
-* 🌐 **Web Architect** — Specialized in **React**, **Next.js**, and **Node.js**.
-* 🛡️ **Cyber Security** — Creator of **Aegis Bot**, protecting 500+ Discord communities.
+* 📱 **Android Specialist** — Developing modern apps with **Kotlin** and **Compose**.
+* 🌐 **Web Architect** — Expertise in **React**, **Next.js**, and **Node.js**.
+* 🛡️ **Cyber Security** — Creator of **Aegis Bot** for Discord security.
 
 ---
 
@@ -46,8 +46,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sv1ffff&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=FFFFFF" width="480px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sv1ffff&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" width="300px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sv1ffff&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sv1ffff&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" width="48%" />
 </div>
 
 <p align="center">
@@ -60,14 +60,14 @@
 
 <div align="center">
 
-### 📱 Mobile & Systems
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white" /> <img src="https://img.shields.io/badge/KMP-blue?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+### 📱 Mobile Development
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white" /> <img src="https://img.shields.io/badge/KMP-blue?style=flat-square&logo=kotlin&logoColor=white" />
 
 ### 🎨 Frontend Mastery
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 
 ### ⚙️ Backend & Infrastructure
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 
 </div>
 
@@ -78,24 +78,16 @@
 <div align="center">
 
 ### 🎬 [VexFlix Platform](https://vexflix.fun)
-*Full-stack movie streaming ecosystem launched in April 2026.*
+*Full-stack movie streaming platform launched in April 2026.*
 <br>
 <img src="https://img.shields.io/badge/Status-Live-green?style=flat-square" /> <img src="https://img.shields.io/badge/Tech-Next.js_|_Firebase-blue?style=flat-square" />
 
 ### 🎧 [Santafy Music](https://github.com/sv1ffff/Santafy)
-*Spotify alternative built with Kotlin Multiplatform (KMP) & Compose.*
+*Spotify alternative built with Kotlin Multiplatform (KMP) and Compose.*
 <br>
 <img src="https://img.shields.io/badge/Status-Active-3DDC84?style=flat-square" /> <img src="https://img.shields.io/badge/Category-Android_|_KMP-black?style=flat-square" />
 
 </div>
-
----
-
-## 🎯 Roadmap
-- [x] Launch **VexFlix** global streaming.
-- [x] Refactor **Santafy** to KMP Core.
-- [ ] Scalable Microservices with Rust.
-- [ ] Advanced AI integration for Aegis Security.
 
 ---
 
