@@ -82,7 +82,7 @@
 <br>
 <img src="https://img.shields.io/badge/Status-Live-green?style=flat-square" /> <img src="https://img.shields.io/badge/Tech-Next.js_|_Firebase-blue?style=flat-square" />
 
-### 🎧 [Santafy Music](https://github.com/sv1ffff/Santafy)
+### 🎧 [Santafy Music](https://santafy.netlify.app/)
 *Spotify alternative built with Kotlin Multiplatform (KMP) and Compose.*
 <br>
 <img src="https://img.shields.io/badge/Status-Active-3DDC84?style=flat-square" /> <img src="https://img.shields.io/badge/Category-Android_|_KMP-black?style=flat-square" />
