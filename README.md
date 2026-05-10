@@ -27,7 +27,7 @@
 * 👑 **CEO @ DevX SQ** — Leading high-performance development teams.
 * 📱 **Android Specialist** — Developing modern apps with **Kotlin** and **Compose**.
 * 🌐 **Web Architect** — Expertise in **React**, **Next.js**, and **Node.js**.
-* 🛡️ **Cyber Security** — Creator of **Aegis Bot** for Discord security.
+* 🛡️ **Security** — Creator of **Aegis Bot** for Discord security.
 
 ---
 
