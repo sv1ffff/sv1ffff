@@ -16,7 +16,7 @@
 
 ---
 
-# SYSTEM.INFO
+# INFO
 
 ```yaml
 name: Saif Fikry
