@@ -50,7 +50,7 @@ mission:
 
 ---
 
-# ECOSYSTEM
+# SYS
 
 <div align="center">
 
@@ -126,8 +126,7 @@ Open Source Development
 
 ---
 
-# FEATURED PRODUCTS
-
+# My Work 
 <table>
 <tr>
 
