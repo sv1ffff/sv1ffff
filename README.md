@@ -54,10 +54,6 @@ mission:
 
 <div align="center">
 
-<a href="https://devxsq.online">
-<img src="https://img.shields.io/badge/DEVX_SQ-SOFTWARE_COMPANY-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white">
-</a>
-
 <a href="https://vexflix.fun">
 <img src="https://img.shields.io/badge/VEXFLIX-STREAMING_PLATFORM-E50914?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
@@ -120,7 +116,7 @@ Performance Optimization
 Scalable Backend Systems
 Product Engineering
 Startup Building
-UI / UX Engineering
+UI / UX Developer 
 Open Source Development
 ```
 
@@ -132,13 +128,13 @@ Open Source Development
 
 <td align="center" width="33%">
 
-<h3>DevX SQ</h3>
+<h3>DevX (previously)</h3>
 
 Software Development Company
 
 Building scalable web, mobile and cloud products.
 
-<a href="https://devxsq.online">
+<a href="https://">
 <img src="https://img.shields.io/badge/VISIT-DEVX_SQ-7C3AED?style=for-the-badge">
 </a>
 
