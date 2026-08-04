@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=SAIF+FIKRY;FULL-STACK+ARCHITECT;ANDROID+SYSTEMS+DEVELOPER" alt="Saif Fikry" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=SAIF+FIKRY;FULL-STACK+DEVELOPER;ANDROID+SYSTEMS+DEVELOPER" alt="Saif Fikry" />
 
 <br>
 
 <a href="https://svif.cloud"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9D&border=00FF9D" alt="Portfolio" /></a>
 <a href="https://github.com/Sv1ffff"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF9D" alt="GitHub" /></a>
 <a href="https://www.instagram.com/sv1ffff"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF9D" alt="Instagram" /></a>
-<a href="s@svif.cloud><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9D" alt="Email" /></a>
+<a href="mailto:s@svif.cloud"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9D" alt="Email" /></a>
 
 </div>
 
@@ -24,9 +24,6 @@
     <td width="60%" valign="top">
       <p>Full-Stack Web Architect and Native Android App Developer based in Egypt. Specialized in designing high-throughput distribution platforms, reactive mobile clients, and distributed backends.</p>
       <p>Focusing on high-performance media infrastructure, cross-platform client architecture, and cloud systems engineering.</p>
-    </td>
-    <td width="40%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sv1ffff&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&icon_color=00FF9D&border_color=0D1117&hide_rank=true" width="100%" alt="Stats Overview" />
     </td>
   </tr>
 </table>
@@ -151,8 +148,7 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sv1ffff&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&border_color=0D1117&hide_border=true" width="48%" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?logoColor=v1ffff&theme=dark&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=00FF9D&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sv1ffff&theme=dark&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=00FF9D&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 <br>
