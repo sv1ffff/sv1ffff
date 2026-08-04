@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://svif.online"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9D&border=00FF9D" alt="Portfolio" /></a>
+<a href="https://svif.cloud"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9D&border=00FF9D" alt="Portfolio" /></a>
 <a href="https://github.com/Sv1ffff"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF9D" alt="GitHub" /></a>
 <a href="https://www.instagram.com/sv1ffff"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF9D" alt="Instagram" /></a>
 <a href="mailto:santadisx@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9D" alt="Email" /></a>
@@ -152,7 +152,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sv1ffff&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&border_color=0D1117&hide_border=true" width="48%" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sv1ffff&theme=dark&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=00FF9D&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?logoColor=v1ffff&theme=dark&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=00FF9D&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -168,5 +168,5 @@
 <br>
 
 <div align="center">
-  <a href="mailto:santadisx@gmail.com"><img src="https://img.shields.io/badge/START_A_PROJECT-0D1117?style=for-the-badge&logo=mail.ru&logoColor=00FF9D" alt="Contact" /></a>
+  <a href="https://svif.online"><img src="https://img.shields.io/badge/START_A_PROJECT-0D1117?style=for-the-badge&logo=mail.ru&logoColor=00FF9D" alt="Contact" /></a>
 </div>
