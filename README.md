@@ -1,19 +1,13 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=SAIF+FIKRY;FULL-STACK+ARCHITECT;ANDROID+SYSTEMS+DEVELOPER" alt="Saif Fikry" />
+
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=SAIF+FIKRY;FULL-STACK+ARCHITECT;ANDROID+DEVELOPER;SYSTEM+ENGINEER;BUILDING+THE+FUTURE" alt="Saif Fikry" />
-
-<br><br>
-
-<p align="center">
-  <a href="https://github.com/Sv1ffff"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00FF9D"></a>
-  <a href="https://svif.online"><img src="https://img.shields.io/badge/PORTFOLIO-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://www.instagram.com/sv1ffff"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:santadisx@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&color=A3A3A3&center=true&width=600&lines=>>>+Accessing_mainframe...;>>>+Loading_developer_profile...;>>>+Authentication_successful." height="40" />
+<a href="https://svif.online"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9D&border=00FF9D" alt="Portfolio" /></a>
+<a href="https://github.com/Sv1ffff"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF9D" alt="GitHub" /></a>
+<a href="https://www.instagram.com/sv1ffff"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF9D" alt="Instagram" /></a>
+<a href="mailto:santadisx@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9D" alt="Email" /></a>
 
 </div>
 
@@ -21,158 +15,144 @@
 
 ---
 
-## AboUt Me
-
-```json
-{
-  "user": "Saif Fikry",
-  "location": "Egypt",
-  "status": "Completed High School Exams (July 2026) 🚀",
-  "roles": [
-    "Founder @ VexFlix",
-    "Founder @ Santafy",
-    "Full-Stack Web Architect",
-    "Android App Developer"
-  ],
-  "current_focus": [
-    "Scaling VexFlix Streaming Architecture",
-    "Advanced Kotlin Multiplatform (KMP)",
-    "Microservices & Cloud Infrastructure"
-  ],
-  "motto": "Building scalable products that solve real problems. Build, Scale, Repeat."
-}
-```
-
 <br>
 
----
+## About
 
-## My StacK
-
-### Frontend & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Nuxt.js-0D1117?style=for-the-badge&logo=nuxtdotjs&logoColor=00C58E" />
-  <img src="https://img.shields.io/badge/Svelte-0D1117?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
-  <img src="https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699" />
-  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0D1117?style=for-the-badge&logo=framer&logoColor=0055FF" />
-  <img src="https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=593D88" />
-  <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" />
-</p>
-
-### Backend, APIs & Static
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=092E20" />
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" />
-  <img src="https://img.shields.io/badge/Bun-0D1117?style=for-the-badge&logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=E10098" />
-  <img src="https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-</p>
-
-### Mobile & App Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-  <img src="https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=3DDC84" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-0D1117?style=for-the-badge&logo=android&logoColor=4285F4" />
-  <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2" />
-  <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57" />
-  <img src="https://img.shields.io/badge/Gradle-0D1117?style=for-the-badge&logo=gradle&logoColor=02303A" />
-</p>
-
-### Database, Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D" />
-  <img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=Prisma&logoColor=2D3748" />
-  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-  <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=232F3E" />
-  <img src="https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=google-cloud&logoColor=4285F4" />
-  <img src="https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
-  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/NGINX-0D1117?style=for-the-badge&logo=nginx&logoColor=009639" />
-</p>
-
-### OS & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Debian-0D1117?style=for-the-badge&logo=debian&logoColor=A81D33" />
-  <img src="https://img.shields.io/badge/Windows_11-0D1117?style=for-the-badge&logo=windows-11&logoColor=0078D4" />
-  <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-</p>
-
-<br>
-
----
-
-## My most famous works
-
-<table bordercolor="#30363d">
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🍿 VexFlix</h3>
-      <p align="center"><i>High-Performance Streaming Platform</i></p>
-      <p>A modern web application built to stream movies and anime. Engineered to handle high traffic loads with zero downtime. Features a custom video player, advanced caching, and ad-network integration.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      </p>
-      <div align="center">
-        <a href="https://vexflix.fun"><img src="https://img.shields.io/badge/LAUNCH_VEXFLIX-E50914?style=for-the-badge&logo=youtube&logoColor=white"></a>
-      </div>
+    <td width="60%" valign="top">
+      <p>Full-Stack Web Architect and Native Android App Developer based in Egypt. Specialized in designing high-throughput distribution platforms, reactive mobile clients, and distributed backends.</p>
+      <p>Focusing on high-performance media infrastructure, cross-platform client architecture, and cloud systems engineering.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎧 Santafy</h3>
-      <p align="center"><i>Kotlin Music Ecosystem</i></p>
-      <p>A robust cross-platform media client tailored for audio streaming. Built heavily with Kotlin and Jetpack Compose to deliver a native, fluid, and responsive user experience across devices.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
-      </p>
-      <div align="center">
-        <a href="https://santafy.site"><img src="https://img.shields.io/badge/LAUNCH_SANTAFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a>
-      </div>
+    <td width="40%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Sv1ffff&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&icon_color=00FF9D&border_color=0D1117&hide_rank=true" width="100%" alt="Stats Overview" />
     </td>
   </tr>
 </table>
 
 <br>
 
----
+## Current Focus
 
-## Advance in Github 
-
-<div align="center">
-  <img src="https://readmemdd.vercel.app/api?username=Sv1ffff&count_private=true&show_icons=true&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&icon_color=00FF9D&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://readmemdd.vercel.app/api/top-langs/?username=Sv1ffff&layout=compact&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&hide_border=true" width="48%" alt="Top Languages" />
-</div>
+* **VexFlix Architecture:** Engineering low-latency video streaming pipelines and CDN routing edge nodes.
+* **Kotlin Multiplatform:** Architecting shared domain logic for cross-platform media clients.
+* **Distributed Backends:** Implementing microservices with Go and Node.js for cloud infrastructure scalability.
 
 <br>
 
+## Tech Stack
+
+**Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00FF9D" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF9D" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=00FF9D" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00FF9D" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00FF9D" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF9D" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=00FF9D" alt="Dart" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00FF9D" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=00FF9D" alt="CSS3" />
+</p>
+
+**Frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=00FF9D" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00FF9D" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-0D1117?style=flat-square&logo=vuedotjs&logoColor=00FF9D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-0D1117?style=flat-square&logo=nuxtdotjs&logoColor=00FF9D" alt="Nuxt.js" />
+  <img src="https://img.shields.io/badge/Svelte-0D1117?style=flat-square&logo=svelte&logoColor=00FF9D" alt="Svelte" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=00FF9D" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Sass-0D1117?style=flat-square&logo=sass&logoColor=00FF9D" alt="Sass" />
+  <img src="https://img.shields.io/badge/Redux-0D1117?style=flat-square&logo=redux&logoColor=00FF9D" alt="Redux" />
+</p>
+
+**Backend & APIs**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00FF9D" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=00FF9D" alt="Express" />
+  <img src="https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=00FF9D" alt="NestJS" />
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00FF9D" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=00FF9D" alt="Django" />
+  <img src="https://img.shields.io/badge/GraphQL-0D1117?style=flat-square&logo=graphql&logoColor=00FF9D" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/REST_API-0D1117?style=flat-square&logo=postman&logoColor=00FF9D" alt="REST API" />
+  <img src="https://img.shields.io/badge/Bun-0D1117?style=flat-square&logo=bun&logoColor=00FF9D" alt="Bun" />
+</p>
+
+**Mobile**
+<p align="left">
+  <img src="https://img.shields.io/badge/Android_Studio-0D1117?style=flat-square&logo=androidstudio&logoColor=00FF9D" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-0D1117?style=flat-square&logo=android&logoColor=00FF9D" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=00FF9D" alt="Flutter" />
+</p>
+
+**Database & Cloud**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00FF9D" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=00FF9D" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=00FF9D" alt="Redis" />
+  <img src="https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=00FF9D" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=00FF9D" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=00FF9D" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00FF9D" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=00FF9D" alt="AWS" />
+  <img src="https://img.shields.io/badge/Cloudflare-0D1117?style=flat-square&logo=cloudflare&logoColor=00FF9D" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=00FF9D" alt="Vercel" />
+</p>
+
+**DevOps & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00FF9D" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00FF9D" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00FF9D" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Nginx-0D1117?style=flat-square&logo=nginx&logoColor=00FF9D" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=00FF9D" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=00FF9D" alt="Figma" />
+</p>
+
+<br>
+
+## Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">VexFlix</h3>
+      <p align="center"><b>Streaming Media Platform</b></p>
+      <p>High-performance web architecture engineered for live and on-demand streaming. Built with custom video delivery routing, multi-layer server caching, and responsive player modules.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=00FF9D" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=00FF9D" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=00FF9D" alt="Tailwind" />
+      </p>
+      <p align="center">
+        <a href="https://vexflix.fun"><img src="https://img.shields.io/badge/VISIT_PLATFORM-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF9D" alt="Launch VexFlix" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Santafy</h3>
+      <p align="center"><b>Kotlin Media Ecosystem</b></p>
+      <p>Cross-platform client architecture designed for audio processing and playback. Features native Android Jetpack Compose interfaces, local storage synchronization, and remote API bindings.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=00FF9D" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Compose-0D1117?style=flat-square&logo=android&logoColor=00FF9D" alt="Compose" />
+        <img src="https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=androidstudio&logoColor=00FF9D" alt="Android" />
+      </p>
+      <p align="center">
+        <a href="https://santafy.site"><img src="https://img.shields.io/badge/VISIT_PLATFORM-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF9D" alt="Launch Santafy" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## GitHub Analytics
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sv1ffff&theme=dark&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&hide_border=true" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sv1ffff&layout=compact&theme=dark&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&border_color=0D1117&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sv1ffff&theme=dark&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=00FF9D&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -185,18 +165,8 @@
 
 ---
 
-## Contributions
+<br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sv1ffff/Sv1ffff/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sv1ffff/Sv1ffff/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sv1ffff/Sv1ffff/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</div>
-
-<br><br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&color=00FF9D&center=true&width=400&lines=[+SYSTEM_OFFLINE+];KEEP_BUILDING_THE_FUTURE" height="40" />
+  <a href="mailto:santadisx@gmail.com"><img src="https://img.shields.io/badge/START_A_PROJECT-0D1117?style=for-the-badge&logo=mail.ru&logoColor=00FF9D" alt="Contact" /></a>
 </div>
