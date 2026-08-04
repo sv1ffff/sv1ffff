@@ -7,7 +7,7 @@
 <a href="https://svif.cloud"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9D&border=00FF9D" alt="Portfolio" /></a>
 <a href="https://github.com/Sv1ffff"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF9D" alt="GitHub" /></a>
 <a href="https://www.instagram.com/sv1ffff"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF9D" alt="Instagram" /></a>
-<a href="mailto:santadisx@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9D" alt="Email" /></a>
+<a href="s@svif.cloud><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9D" alt="Email" /></a>
 
 </div>
 
